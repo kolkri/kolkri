@@ -1,6 +1,6 @@
 ### Hi there, I'm Kristiina 👋
 
-#####My background
+**My background**
 
 <!--
 **kolkri/kolkri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
